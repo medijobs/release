@@ -192,7 +192,7 @@ Using our configuration comes with some sensible defaults:
 - `DOCKER_USERNAME=$GITHUB_REPOSITORY_OWNER`
 - `DOCKER_PASSWORD=$GITHUB_TOKEN`
 - `GIT_COMMITTER_NAME="medijobs"`
-- `GIT_COMMITTER_EMAIL="141964641+medijobs@users.noreply.github.com"`
+- `GIT_COMMITTER_EMAIL="159287579+medijobs@users.noreply.github.com"`
 - `GIT_AUTHOR_NAME` - parsed from commit `$GITHUB_SHA`
 - `GIT_AUTHOR_EMAIL` - parsed from commit `$GITHUB_SHA`
 
