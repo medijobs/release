@@ -5,6 +5,13 @@
 
 > All notable changes to this project will be documented in this file
 
+## [1.0.1](https://github.com/medijobs/release/compare/v1.0.0...v1.0.1) (2024-2-9)
+
+
+### 🤖 Build System
+
+* add latest versions of tooling and test release tagging ([b7c8755](https://github.com/medijobs/release/commit/b7c875567e56267e424fd1e110ed6cd495dee357))
+
 ## 1.0.0 (2024-2-7)
 
 
